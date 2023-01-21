@@ -1,0 +1,12 @@
+{
+    "registration_ids" :["cKyi_YhVQhaNQQvPSKoRQi:APA91bGs21XnxkENsWSf0z81ASGeJ9bv8fih6AVMn56snEJJOI7WKx53za5UtbgzEen45OEijD_DjKchTmRtYG-3nIJS1tZfPIQvRgrZvoRMkjSm17Mv-11i7B81El3GSdN97BfW0H1Q"],
+        "notification":{
+        "title": "TEST-POSTMAN 🐱‍🏍",
+        "body": "Soy una notificacion enviada por postman",
+        "image": "https://th.bing.com/th/id/OIP._Gcc0mpOVL1ck_f0QqKeOAHaFj?pid=ImgDet&rs=1"
+    }
+}
+
+
+// //Authorization key=AAAABoH0kAI:APA91bFSYMdWvPteDQeRAk5WUSgN1me-wvDhgliPP6J9y7BrGHVtQnEJKz6wyiQwPkCPt6xmcQfjALBsV7MLvayYZgV6x42OKOcTC1ig8UZA3An5IL7oekYCKVRVFsci66BrChBRj_0z
+// //ContentType  application/json
