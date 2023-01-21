@@ -38,3 +38,7 @@ export const App = () => {
   )
 }
 export default App;
+
+//https://jasonwatmore.com/post/2021/09/27/react-fetch-logout-on-401-unauthorized-or-403-forbidden-http-response
+//https://reactnative.dev/docs/network
+//https://rnfirebase.io/messaging/usage
